@@ -1,0 +1,17 @@
+execute:
+  execute_notebooks: "auto"       # re-run notebooks on build
+  timeout: 120                    # seconds per cell before failing
+ 
+html:
+  use_repository_button: true
+  use_issues_button: true
+  home_page_in_navbar: true
+ 
+repository:
+  url: https://github.com/calgo-lab/datapy
+  path_to_book: .
+  branch: main
+ 
+sphinx:
+  extra_extensions:
+    - sphinx_togglebutton

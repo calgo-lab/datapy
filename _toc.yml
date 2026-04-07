@@ -1,0 +1,9 @@
+format: jb-book
+root: intro.md
+chapters:
+  - file: Python_Intro/Python_Intro.ipynb
+  - file: Data-Types/Python_data_types.ipynb
+  - file: Control-Flow/Python_control_flow-iterations-functions.ipynb
+  - file: numpy/numpy.ipynb
+  - file: pandas/pandas.ipynb
+

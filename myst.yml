@@ -12,16 +12,10 @@ project:
       email: amy.siu@bht-berlin.de
     - name: Selcan Ipek-Ugay
       email: Selcan.Ipek-Ugay@bht-berlin.de
-  # github:
-  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
-  toc:
-    - file: Python_Intro/Python_Intro.ipynb
-    - file: Data-Types/Python_data_types.ipynb
-    - file: Control-Flow/Python_control_flow-iterations-functions.ipynb
-    - file: numpy/numpy.ipynb
-    - file: pandas/pandas.ipynb
+  
 site:
   template: book-theme
-  # options:
-  #   favicon: calgo-lab-logo.png
-  #   logo: calgo-lab-logo.png
+  options:
+  #   favicon: datapy-logo.jpg
+    logo: datapy-logo.jpg
+
