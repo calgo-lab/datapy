@@ -1,0 +1,27 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 0e5448e2-e87f-4b5b-b20f-12fed71fae3d
+  # title: Data Science Programming with Python
+  description:
+  # keywords: []
+  authors:
+    - name: Felix Bießmann
+      email: felix.biessmann@bht-berlin.de
+    - name: Amy Siu
+      email: amy.siu@bht-berlin.de
+    - name: Selcan Ipek-Ugay
+      email: Selcan.Ipek-Ugay@bht-berlin.de
+  # github:
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  toc:
+    - file: Python_Intro/Python_Intro.ipynb
+    - file: Data-Types/Python_data_types.ipynb
+    - file: Control-Flow/Python_control_flow-iterations-functions.ipynb
+    - file: numpy/numpy.ipynb
+    - file: pandas/pandas.ipynb
+site:
+  template: book-theme
+  # options:
+  #   favicon: calgo-lab-logo.png
+  #   logo: calgo-lab-logo.png
