@@ -6,12 +6,12 @@ project:
   description:
   # keywords: []
   authors:
+    - name: Selcan Ipek-Ugay
+      email: Selcan.Ipek-Ugay@bht-berlin.de
     - name: Felix Bießmann
       email: felix.biessmann@bht-berlin.de
     - name: Amy Siu
       email: amy.siu@bht-berlin.de
-    - name: Selcan Ipek-Ugay
-      email: Selcan.Ipek-Ugay@bht-berlin.de
   
 site:
   template: book-theme
