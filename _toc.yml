@@ -4,6 +4,7 @@ chapters:
   - file: Python_Intro/Python_Intro.ipynb
   - file: Data-Types/Python_data_types.ipynb
   - file: Control-Flow/Python_control_flow-iterations-functions.ipynb
+  - file: Classes-Errors-Modules/Classes-Errors-Modules.ipynb
   - file: numpy/numpy.ipynb
   - file: pandas/pandas.ipynb
 
