@@ -7,4 +7,5 @@ chapters:
   - file: Classes-Errors-Modules/Classes-Errors-Modules.ipynb
   - file: numpy/numpy.ipynb
   - file: pandas/pandas.ipynb
+  - file: webscraping/web_scraping.ipynb
 
